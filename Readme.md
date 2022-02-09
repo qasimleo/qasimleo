@@ -45,7 +45,7 @@
 <a href = "https://twitter.com/qasimleoo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/qasimleoo/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCiIAYuQL45puavwGAHapLRg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "discordapp.com/users/yourID"><img src="https://img.icons8.com/color/50/000000/discord-logo.png"/></a>
+<a href = "https://www.discordapp.com/users/qasimleo.1676"><img src="https://img.icons8.com/color/50/000000/discord-logo.png"/></a>
    
 
 </p>
